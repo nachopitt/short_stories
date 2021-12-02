@@ -1,4 +1,8 @@
 /* Miligram overrides */
+select, textarea {
+    height: unset;
+}
+
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
